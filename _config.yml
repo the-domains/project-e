@@ -1,7 +1,7 @@
 name: Project-E
 favicon: null
-layout_spectrum: 0.8234677128493786
-typography_spectrum: 0.10445069265551865
+layout_spectrum: 1
+typography_spectrum: 0.0918
 cta:
   domain: null
   bucket: null

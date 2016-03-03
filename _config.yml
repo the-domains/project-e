@@ -1,28 +1,18 @@
-name: Project-E
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.0918
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7788805370219052
-  lightness: 0.31384803890250623
-  saturation: 0.06617086636833847
-  rhythmicContrast: 0.06774355284869671
+    - '#D0E0C8'
+    - '#05487F'
+    - '#A89050'
+    - '#58B0F8'
+    - '#90C8E0'
+  brandStrength: 0.847973
+  lightness: 0.313848
+  rhythmicContrast: 0.067743
+  saturation: 0.06617
+cta: {}
+layout_spectrum: 0.398648
+name: Project-E
+opengraph: {}
 purpose: []
+typography_spectrum: 0.0918
